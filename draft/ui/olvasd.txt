@@ -1,0 +1,2 @@
+Lehetne a felhasználókezelés desktop alkalmazásból,
+minden más webes felületről.
