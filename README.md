@@ -1,0 +1,3 @@
+# exMinoseg
+
+Minőségbiztosításhoz kikérdező rendszer
