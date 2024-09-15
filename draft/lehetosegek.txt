@@ -1,0 +1,5 @@
+A kérdőívek kitöltése lehetne webes felületen és telefonon is.
+A kérdőív kitölthéshez egy osztály kapna egy 4 számjegyzű kódot.
+A kitöltést le lehetne tiltani.
+Az felhasználókezelés lehetne asztali alkalmazásból.
+Esetleg az összes adminisztráció lehetne asztali alkalmazásból.
